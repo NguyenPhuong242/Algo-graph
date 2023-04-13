@@ -31,4 +31,5 @@ public class Graph {
     public List<Integer> getNeighbors(int vertex) {
         return adjacencyList.get(vertex);
     }
+
 }
